@@ -3,4 +3,4 @@
 
 
 
-This is multiclass classification problem with Train and test dataset.
+This directory contain multiclass classification problem(CNN) and different deeplearning problems using different algos.
